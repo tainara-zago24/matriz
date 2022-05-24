@@ -1,0 +1,36 @@
+body {
+    background-color: linear-gradiente(to bottom, white, #f78888);
+}
+
+.estilo {
+    font-size: 30px;
+    color: crimson;
+    font-family: 'Macondo', cursive;
+    text-align: justify;
+}
+
+h1 {
+    color: #470606;
+    font-family: 'Licorice', cursive;
+    font-size: 80px;
+    text-align: center;
+}
+
+img{
+    display : block;
+    margin-left: auto; 
+    margin-right: auto;
+    height:400px;
+    width:500px;
+}
+
+table{
+    font-size: 30px;
+    color: crimson;
+    font-family: 'Macondo', cursive;
+    margin-left: auto; 
+    margin-right: auto;
+    height:30px;
+    width:30px;
+
+}
